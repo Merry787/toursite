@@ -1,0 +1,6 @@
+{
+  "name": "Getaways — Открой Кыргызстан",
+  "description": "Туристическая платформа для путешествий по Кыргызстану: туры, горные походы, проживание в юртах, местные гиды и бронирование приключений.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
